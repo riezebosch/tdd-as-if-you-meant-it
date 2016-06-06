@@ -1,0 +1,9 @@
+{
+  "generator-reveal-infosupport": {
+    "presentationTitle": "TDD as if you Meant It",
+    "packageVersion": "0.0.1",
+    "deployToGithubPages": true,
+    "githubUsername": "riezebosch",
+    "githubRepository": "tdd-as-if-you-meant-it"
+  }
+}
