@@ -4,5 +4,6 @@ Use version control
 * Commit on on every green bar
 * Describe your current design thinking in the comment
 
-(optional) Publish a link to your code at
-* \#ISKATDD
+Optional
+* Publish your code at *github/bitbucket/whatever*
+* Share a link to your code using **\#ISKATDD**
