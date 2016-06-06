@@ -1,9 +1,9 @@
 /* title slide */
-div section:first-child {
+/*div section:first-child section:first-child{
     position: relative;
     top: 50%;
     transform: translateY(-50%);
-}
+}*/
 
 /* Subsequent slides */
 div section + section{
