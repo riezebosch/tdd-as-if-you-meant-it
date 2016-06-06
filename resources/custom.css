@@ -1,3 +1,11 @@
+/* title slide */
+div section:first-child {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+/* Subsequent slides */
 div section + section{
     text-align: left;
 }
