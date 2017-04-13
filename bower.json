@@ -1,9 +1,0 @@
-{
-  "name": "tdd-as-if-you-meant-it",
-  "version": "0.0.1",
-  "dependencies": {
-    "reveal.js": "~3.2.0",
-    "highlightjs": "~9.0.0",
-    "reveal.js-theme-infosupport": "~0.0.1"
-  }
-}
